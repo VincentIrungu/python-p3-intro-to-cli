@@ -115,7 +115,7 @@ data = [{
   "specifications": "Gluten-free pizza",
   "satisfaction_rank": 4.5,
   "comments": "Filling",
-  "barista_id": 10
+  "barista_id": 3
 }, {
   "meal_id": 8,
   "meal_served": "taco",
