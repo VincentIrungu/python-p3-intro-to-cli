@@ -69,59 +69,69 @@ print("Done seeding baristas data!!!")
 
 data = [{
   "meal_id": 1,
-  "meal_served": "french fries",
-  "specifications": "Low-sodium soup",
-  "satisfaction_rank": "soft drink",
-  "comments": "Savory"
+  "meal_served": "chicken nuggets",
+  "specifications": "Vegan burger",
+  "satisfaction_rank": 2.6,
+  "comments": "Mouthwatering",
+  "barista_id": 5
 }, {
   "meal_id": 2,
-  "meal_served": "french fries",
-  "specifications": "Low-sodium soup",
-  "satisfaction_rank": "hamburger",
-  "comments": "Mouthwatering"
+  "meal_served": "milkshake",
+  "specifications": "Paleo-friendly entree",
+  "satisfaction_rank": 2.5,
+  "comments": "Crunchy",
+  "barista_id": 3
 }, {
   "meal_id": 3,
-  "meal_served": "hot dog",
-  "specifications": "Sugar-free dessert",
-  "satisfaction_rank": "taco",
-  "comments": "Satisfying"
+  "meal_served": "chicken nuggets",
+  "specifications": "Low-sodium soup",
+  "satisfaction_rank": 2.2,
+  "comments": "Satisfying",
+  "barista_id": 8
 }, {
   "meal_id": 4,
   "meal_served": "soda",
-  "specifications": "Vegetarian sushi",
-  "satisfaction_rank": "onion rings",
-  "comments": "Flavorful"
+  "specifications": "Dairy-free smoothie",
+  "satisfaction_rank": 1.8,
+  "comments": "Crunchy",
+  "barista_id": 5
 }, {
   "meal_id": 5,
-  "meal_served": "ice cream",
-  "specifications": "Organic juice cleanse",
-  "satisfaction_rank": "chicken nuggets",
-  "comments": "Savory"
+  "meal_served": "soda",
+  "specifications": "Dairy-free smoothie",
+  "satisfaction_rank": 1.6,
+  "comments": "Satisfying",
+  "barista_id": 4
 }, {
   "meal_id": 6,
-  "meal_served": "burrito",
-  "specifications": "Paleo-friendly entree",
-  "satisfaction_rank": "french fries",
-  "comments": "Filling"
+  "meal_served": "french fries",
+  "specifications": "Sugar-free dessert",
+  "satisfaction_rank": 4.1,
+  "comments": "Satisfying",
+  "barista_id": 7
 }, {
   "meal_id": 7,
-  "meal_served": "french fries",
-  "specifications": "Organic juice cleanse",
-  "satisfaction_rank": "pizza",
-  "comments": "Savory"
+  "meal_served": "burrito",
+  "specifications": "Gluten-free pizza",
+  "satisfaction_rank": 4.5,
+  "comments": "Filling",
+  "barista_id": 10
 }, {
   "meal_id": 8,
-  "meal_served": "ice cream",
-  "specifications": "Dairy-free smoothie",
-  "satisfaction_rank": "pizza",
-  "comments": "Satisfying"
+  "meal_served": "taco",
+  "specifications": "Sugar-free dessert",
+  "satisfaction_rank": 4.5,
+  "comments": "Yummy",
+  "barista_id": 7
 }, {
   "meal_id": 9,
-  "meal_served": "hamburger",
-  "specifications": "Low-sodium soup",
-  "satisfaction_rank": "french fries",
-  "comments": "Delicious"
+  "meal_served": "taco",
+  "specifications": "Sugar-free dessert",
+  "satisfaction_rank": 1.9,
+  "comments": "Crunchy",
+  "barista_id": 7
 }]
+
 
 meal_cards =[]
 
